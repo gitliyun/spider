@@ -1,0 +1,13 @@
+i: monkey
+from: AUTO
+to: AUTO
+smartresult: dict
+client: fanyideskweb
+salt: 15711281626315
+sign: 14132de10ecf5a6486e47b787420ddaf
+ts: 1571128162631
+bv: 5d4cb17cceb9ecd02ece3ed9923d3a7a
+doctype: json
+version: 2.1
+keyfrom: fanyi.web
+action: FY_BY_REALTlME
